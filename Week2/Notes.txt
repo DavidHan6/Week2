@@ -1,0 +1,10 @@
+[2. -1, 3, 0, 100, 5]
+take a base number like -100
+Get the first number and move it down twh list until you cannot move it even frther because it doesnt follow the code the number before < num. then you insert the number into its respective place. h
+take the next number and repeat.
+then you did it.
+
+what you need
+crop
+blur
+sharpen
